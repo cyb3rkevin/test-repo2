@@ -1,0 +1,8 @@
+This is the test file.
+Added the new line to this file
+Added a third line
+Added a fourth line
+
+This file comes before the others
+
+Git is tracking my changes
